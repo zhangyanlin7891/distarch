@@ -2,7 +2,7 @@ package com.liushaoming.encrypt;
 
 /**
  * 右键--run as java application此class即可调试
- * 使用md5加盐加密。不可逆加密。
+ * 使用md5加盐加密。不可逆加密。testGitTest
  */
 public class EncryptTest {
     public static void main(String[] args){
